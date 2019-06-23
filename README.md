@@ -4,7 +4,7 @@ Use of API, Data Structures, File IO, Basic Concepts in Astronomy
 <br>
 <br>
 <b>Exoplanets.py </b>:
-pulls confirmed exoplanets database from caltech website, calculates luminosity and the habitable zone of each host star, estimates the comosition of each exoplanet based on its density then writes results to .csv file for Cytoscape
+pulls confirmed exoplanets database from caltech API, calculates luminosity and the habitable zone of each host star, estimates the comosition of each exoplanet based on its density then writes results to .csv file for Cytoscape
 <br>
 <b>Planets.csv</b>:
 Results fromt the python script.
