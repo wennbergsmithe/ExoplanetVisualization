@@ -6,6 +6,7 @@ s_boltz = 1.3*(10 ** -23)
 #pull data from API
 def apiRequest():
 	URL = "https://exoplanetarchive.ipac.caltech.edu/cgi-bin/nstedAPI/nph-nstedAPI?table=exoplanets&format=json"
+	data = []
 	try:
 		r = requests.get(url = URL) 
 		data = r.json()	
