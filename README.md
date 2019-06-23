@@ -11,6 +11,7 @@ Results fromt the python script.
 <br>
 <b>planets.pdf</b>:
 Planets ranked by radius and colored according to thier composition.
+<br>
 <b>DensitiesLegend.png</b>:
 Legend for compostion colors.
 <br>
